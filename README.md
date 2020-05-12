@@ -1,4 +1,4 @@
-# c#
+# C#
 https://metanit.com/sharp/tutorial/6.1.php  
 https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes-preview  
 https://devblogs.microsoft.com/dotnet/  
