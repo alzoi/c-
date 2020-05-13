@@ -8,4 +8,13 @@ https://www.youtube.com/watch?v=l0AVCzPTP-o
 
 Для операционной системы Linux существует платформа MONO или [DotGNU Portable.NET](https://en.wikipedia.org/wiki/DotGNU), которые могут выполнять байт-код, данные платформы состоят из виртуальной машины (VM) и FCL под API Linux.
 
+# .NET Core (или .NET)  
+.NET - это бесплатная кроссплатформенная платформа с открытым исходным кодом для разработки приложений различных типов.  
+В .NET вы можете использовать несколько языков, редакторов и библиотек для создания веб-приложений, мобильных устройств, компьютеров, игр и IoT.  
+https://dotnet.microsoft.com/  
+
 [Книга "CLR via C#. Программирование на платформе Microsoft .NET Framework 4.5 на языке C#"](https://www.ozon.ru/context/detail/id/21236101/?from=bar)
+
+
+Замеры производительности web-приложений  
+https://www.techempower.com/benchmarks/
