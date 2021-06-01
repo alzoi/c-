@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=l0AVCzPTP-o
 В .NET вы можете использовать несколько языков, редакторов и библиотек для создания веб-приложений, мобильных устройств, компьютеров, игр и IoT.  
 https://dotnet.microsoft.com/  
 
+Репозиторий платформы .NET https://github.com/dotnet/core  
+
 [Книга "CLR via C#. Программирование на платформе Microsoft .NET Framework 4.5 на языке C#"](https://www.ozon.ru/context/detail/id/21236101/?from=bar)
 
 
