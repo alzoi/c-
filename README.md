@@ -23,6 +23,10 @@ Framework Class Library (FCL) - фроеймворк, библиотека кл�
 
 После установки необходимо создать переменную среды DOTNET_ROOT со ссылкой на папку SDK .NET = \Programs\dotnet\  и добавить данный путь в переменную среды PATH.  
 
+Пример web приложения https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro  
+Документация ASP.NET https://docs.microsoft.com/ru-ru/aspnet/core/?view=aspnetcore-5.0  
+
+
 [Книга "CLR via C#. Программирование на платформе Microsoft .NET Framework 4.5 на языке C#"](https://www.ozon.ru/context/detail/id/21236101/?from=bar)
 
 
