@@ -20,3 +20,6 @@ https://dotnet.microsoft.com/
 
 Замеры производительности web-приложений  
 https://www.techempower.com/benchmarks/
+
+# Шаблоны проектирования
+https://docs.microsoft.com/ru-ru/azure/architecture/patterns/cqrs  
