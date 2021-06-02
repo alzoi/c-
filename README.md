@@ -13,9 +13,9 @@ https://www.youtube.com/watch?v=l0AVCzPTP-o
 В .NET вы можете использовать несколько языков, редакторов и библиотек для создания веб-приложений, мобильных устройств, компьютеров, игр и IoT.  
 https://dotnet.microsoft.com/  
 
-Платформа .NET = CLR + FCL
+Платформа .NET = CLR + FCL  
 Common Language Runtime (CLR) - виртуальная машина для интерпретации байт-кода и запуска его на процессоре текущей ОС.  
-Framework Class Library (FCL) - фроеймворк, библиотека классов для разработки приложений.
+Framework Class Library (FCL) - фроеймворк, библиотека классов для разработки приложений.  
 
 Репозиторий платформы .NET https://github.com/dotnet/core  
 Загрузка SDK (для разработки) или .NET runtime (виртуальной машины для выполнения) с сайта https://dotnet.microsoft.com/download
