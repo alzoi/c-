@@ -35,3 +35,7 @@ https://www.techempower.com/benchmarks/
 
 # Шаблоны проектирования
 https://docs.microsoft.com/ru-ru/azure/architecture/patterns/cqrs  
+
+# Frameworks
+https://docs.microsoft.com/ru-ru/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli  
+
