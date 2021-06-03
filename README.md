@@ -39,3 +39,19 @@ https://docs.microsoft.com/ru-ru/azure/architecture/patterns/cqrs
 # Frameworks
 https://docs.microsoft.com/ru-ru/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli  
 
+# WebAPI
+Каждый сервис WebAPI реализуется на базе паттерна (шаблона проектирования) CQRS  
+https://docs.microsoft.com/ru-ru/azure/architecture/patterns/cqrs  
+https://habr.com/ru/company/simbirsoft/blog/329970/  
+https://habr.com/ru/post/543828/  
+
+с использованием библиотеки-шаблона MediatR (конвейер обработки команд)
+(https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns)[https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api#implement-the-command-process-pipeline-with-a-mediator-pattern-mediatr]  
+
+В качестве ORM Entity Framework Core  
+https://docs.microsoft.com/ru-ru/ef/core/  
+
+# Автотестирование
+https://habr.com/ru/company/otus/blog/529576/  
+(Тестирование служб и веб-приложений ASP.NET Core)[https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/multi-container-microservice-net-applications/test-aspnet-core-services-web-apps]  
+
