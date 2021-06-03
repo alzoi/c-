@@ -45,7 +45,7 @@ https://docs.microsoft.com/ru-ru/azure/architecture/patterns/cqrs
 https://habr.com/ru/company/simbirsoft/blog/329970/  
 https://habr.com/ru/post/543828/  
 
-с использованием библиотеки-шаблона MediatR (конвейер обработки команд)
+с использованием библиотеки-шаблона MediatR (конвейер обработки команд)  
 [https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns](https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api#implement-the-command-process-pipeline-with-a-mediator-pattern-mediatr)  
 
 В качестве ORM Entity Framework Core  
