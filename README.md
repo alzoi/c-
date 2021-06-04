@@ -27,8 +27,9 @@ Framework Class Library (FCL) - фроеймворк, библиотека кл�
 Документация ASP.NET https://docs.microsoft.com/ru-ru/aspnet/core/?view=aspnetcore-5.0  
 Учебные материалы по ASP.NET https://dotnet.microsoft.com/learn/aspnet  
 Создание веб-API (службу RESTful) с помощью ASP.NET Core https://docs.microsoft.com/ru-ru/learn/modules/build-web-api-aspnet-core/  
+[Пример службы по шаблону grpc](https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/grpc/grpc-start?view=aspnetcore-5.0&tabs=visual-studio)
 
-[Книга "CLR via C#. Программирование на платформе Microsoft .NET Framework 4.5 на языке C#"](https://www.ozon.ru/context/detail/id/21236101/?from=bar)
+[Книга "CLR via C#. Программирование на платформе Microsoft .NET Framework 4.5 на языке C#"](https://www.ozon.ru/context/detail/id/21236101/?from=bar)  
 
 
 Замеры производительности web-приложений  
